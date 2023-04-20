@@ -1,5 +1,10 @@
 # Aldori-Advocacia-
-Desenvolvido no wordpress com o auxilio do Elementor, o site inicialmente visa uma abordagem inicial para novos clientes. </br>
+Desenvolvi um site incrível e completamente personalizado usando a plataforma WordPress e o poderoso plugin Elementor. Este projeto me permitiu criar um site que é bonito, rápido, responsivo e fácil de usar.
+
+O Elementor nos permitiu criar um site visualmente atraente com a capacidade de personalizar cada detalhe do design. Com o seu conjunto completo de ferramentas de design, incluindo uma vasta biblioteca de elementos, ícones e modelos predefinidos, nós pudemos criar um site que é verdadeiramente único.
+
+Nós também usamos o WordPress para garantir que nosso site seja seguro e escalável. 
+Este projeto não é apenas bonito, mas também funcional. </br>
 https://andersonaldoriadvocacia.com.br/ </br>
 
 ### Desktop 
